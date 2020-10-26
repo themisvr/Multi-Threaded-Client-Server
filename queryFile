@@ -1,0 +1,10 @@
+/topk-AgeRanges 1 China MERS-COV 16-11-2001 15-04-2013 
+/diseaseFrequency MERS-COV 12-09-2013 29-10-2013 Germany 
+/numPatientAdmissions FLU-2018 10-03-2019 01-01-2020  
+/topk-AgeRanges 2 China H1N1 02-10-2018 22-01-2021 
+/topk-AgeRanges 4 Italy FLU-2018 26-07-2012 03-03-2017 
+/topk-AgeRanges 2 China EVD 12-06-2015 08-10-2020 
+/numPatientAdmissions SARSCOV-2 16-05-2005 02-03-2008  
+/searchPatientRecord 1967 
+/numPatientAdmissions COVID-2019 03-02-2021 15-03-2021 Germany 
+/topk-AgeRanges 4 China COVID-2019 17-12-2017 18-12-2018 
